@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# IDE
+.idea
+*.iml
+.dir-locals.el
+.vscode
+
+
+*.out
+
+bin
+
